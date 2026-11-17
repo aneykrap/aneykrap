@@ -1,9 +1,5 @@
 # <p align="center"> Park Yena | 박예나 </p>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### 💬 About Me
 - Computer Science Engineering student at Ewha Womans University
 
@@ -14,8 +10,7 @@
 - **COMMA** – AI-based learning support app for the visually & hearing impaired
 - **MODOO BOX** – Group delivery platform for logistics-disadvantaged areas (Data analysis)
 
-</td>
-<td valign="top" width="50%">
+---
 
 ### 💬 About Me
 - 이화여자대학교 컴퓨터공학 전공
@@ -26,7 +21,3 @@
 - **Deary** – 외국어 일기 · 문장 교정 앱 서버 (Spring Boot · PostgreSQL)
 - **COMMA** – 시 · 청각장애 학습자를 위한 AI 학습 보조 앱
 - **모두의 택배** – 물류취약지역 공동배송 매칭 플랫폼 (데이터 분석)
-
-</td>
-</tr>
-</table>
