@@ -5,7 +5,6 @@
 <td valign="top" width="50%">
 
 ### 💬 About Me
-- Backend developer building LLM features and MCP servers
 - Computer Science Engineering student at Ewha Womans University
 
 ### 🌳 Experience
@@ -19,7 +18,6 @@
 <td valign="top" width="50%">
 
 ### 💬 소개
-- LLM 기능과 MCP 서버를 만드는 백엔드 개발자
 - 이화여자대학교 컴퓨터공학 전공
 
 ### 🌳 경험
