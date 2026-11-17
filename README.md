@@ -17,10 +17,10 @@
 </td>
 <td valign="top" width="50%">
 
-### 💬 소개
+### 💬 About Me
 - 이화여자대학교 컴퓨터공학 전공
 
-### 🌳 경험
+### 🌳 Experience
 - **Timo** – AI가 걸릴 시간을 추천하는 타임박싱 투두 (Gemini · 가입자 약 100명)
 - **Deary 이슈 에이전트** – Sentry 에러를 AI가 판단해 GitHub 이슈로 정리하는 에이전트 (MCP 서버 · FastAPI · Claude)
 - **Deary** – 외국어 일기 · 문장 교정 앱 서버 (Spring Boot · PostgreSQL)
