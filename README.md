@@ -11,6 +11,7 @@
 | 🏆 **[Timo](https://github.com/Team-Timo/Timo-Server)**<br/>AI가 걸릴 시간을 추천하는 타임박싱 투두 | Backend | 2026.06 – | `Spring Boot` `MySQL` `Redis` `Gemini` |
 | 🏆 **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)**<br/>물류취약지역 공동배송 플랫폼 | Data Analysis | 2025.03 – 2025.08 | `Python` `pandas` `statsmodels` `SciPy` |
 | 🏆 **[COMMA](https://github.com/WarmElephantMario/COMMA)**<br/>시·청각장애 학습자를 위한 AI 학습 보조 앱 | Full-stack | 2024.03 – 2024.12 | `Flutter` `Node.js` `MySQL` `OpenAI` |
+
 ### Awards
 
 - 🏆 **[Timo](https://github.com/Team-Timo/Timo-Server)** — SOPT 38기 AppJam 특별상
