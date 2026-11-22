@@ -4,10 +4,6 @@
 
 # 박예나 · Park Yena
 
-**Backend Developer**
-
-Spring Boot 서버에 AI를 붙이고 배포와 운영까지 직접 챙깁니다.
-
 [![Email](https://img.shields.io/badge/Email-yena7park%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yena7park@gmail.com)
 
 </div>
