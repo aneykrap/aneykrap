@@ -1,7 +1,6 @@
 ### About
 
 - 이화여자대학교 컴퓨터공학 전공
-- ✉️ [yena7park@gmail.com](mailto:yena7park@gmail.com)
 
 ### Projects
 
