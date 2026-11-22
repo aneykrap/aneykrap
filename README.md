@@ -2,7 +2,7 @@
 
 # 박예나 · Park Yena
 
-[![Email](https://img.shields.io/badge/Email-yena7park%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yena7park@gmail.com)
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="15" />&nbsp; <a href="mailto:yena7park@gmail.com">yena7park@gmail.com</a>
 
 </div>
 
