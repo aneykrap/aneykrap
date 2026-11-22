@@ -14,9 +14,9 @@
 
 ### Awards
 
-- 🏆 **[Timo](https://github.com/Team-Timo/Timo-Server)** — SOPT 38기 AppJam 특별상
-- 🏆 **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)** — 물류취약지역 공동배송 플랫폼 · 국토교통 데이터 활용 경진대회 우수상
-- 🏆 **[WhisSYNC](https://github.com/BFF-Barrier-Free-Forever/Automated-Captioning)** — 대본 매칭으로 공연 자막을 띄우는 시스템 · 이화 캡스톤디자인 은상
-- 🏆 **[COMMA](https://github.com/WarmElephantMario/COMMA)** — 이화 캡스톤디자인 금상 · SW Festival 창업경진대회 대상
+- **[Timo](https://github.com/Team-Timo/Timo-Server)** — SOPT 38기 AppJam 특별상
+- **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)** — 물류취약지역 공동배송 플랫폼 · 국토교통 데이터 활용 경진대회 우수상
+- **[WhisSYNC](https://github.com/BFF-Barrier-Free-Forever/Automated-Captioning)** — 대본 매칭으로 공연 자막을 띄우는 시스템 · 이화 캡스톤디자인 은상
+- **[COMMA](https://github.com/WarmElephantMario/COMMA)** — 이화 캡스톤디자인 금상 · SW Festival 창업경진대회 대상
 
 
