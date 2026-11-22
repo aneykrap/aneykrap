@@ -14,12 +14,12 @@
 
 ## Projects
 
-| Project | What I did | Tech |
-|:--|:--|:--|
-| **[Timo](https://github.com/Team-Timo/Timo-Server)**<br/>AI가 걸릴 시간을 추천하는 타임박싱 투두<br/>🏆 SOPT 38기 AppJam 특별상 | **Backend**<br/>AI 추천 · 피드백 API, Blue/Green 무중단 배포, 모니터링 | `Spring Boot` `MySQL` `Redis` `Gemini` |
-| **[Deary](https://github.com/Deary-App/Deary-Server)**<br/>외국어 일기를 쓰고 서로 문장을 교정해 주는 앱 | **Backend**<br/>인증, 교정 API, AI 자동 검수 | `Spring Boot` `PostgreSQL` `OpenAI` |
-| **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)**<br/>물류취약지역 주민의 택배를 모아 함께 배송하는 플랫폼<br/>🏆 국토교통 데이터 활용 경진대회 우수상 | **Data Analysis**<br/>우편 물류 공공데이터 분석, 단계별 배송 기준 설정 | `Python` `pandas` `statsmodels` `SciPy` |
-| **[COMMA](https://github.com/WarmElephantMario/COMMA)**<br/>시·청각장애 학습자를 위한 AI 학습 보조 앱<br/>🏆 이화 캡스톤디자인 금상 | **Full-stack**<br/>Flutter 화면, Node.js API | `Flutter` `Node.js` `MySQL` `OpenAI` |
+| Project | What I did | Tech | Award |
+|:--|:--|:--|:--|
+| **[Timo](https://github.com/Team-Timo/Timo-Server)**<br/>AI가 걸릴 시간을 추천하는 타임박싱 투두 | **Backend**<br/>AI 추천 · 피드백 API, Blue/Green 무중단 배포, 모니터링 | `Spring Boot` `MySQL` `Redis` `Gemini` | 🏆 SOPT AppJam 특별상 |
+| **[Deary](https://github.com/Deary-App/Deary-Server)**<br/>외국어 일기를 쓰고 서로 문장을 교정해 주는 앱 | **Backend**<br/>인증, 교정 API, AI 자동 검수 | `Spring Boot` `PostgreSQL` `OpenAI` | - |
+| **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)**<br/>물류취약지역 주민의 택배를 모아 함께 배송하는 플랫폼 | **Data Analysis**<br/>우편 물류 공공데이터 분석, 단계별 배송 기준 설정 | `Python` `pandas` `statsmodels` `SciPy` | 🏆 국토교통 데이터 경진대회 우수상 |
+| **[COMMA](https://github.com/WarmElephantMario/COMMA)**<br/>시·청각장애 학습자를 위한 AI 학습 보조 앱 | **Full-stack**<br/>Flutter 화면, Node.js API | `Flutter` `Node.js` `MySQL` `OpenAI` | 🏆 캡스톤디자인 금상 |
 
 <details>
 <summary><b>📚 Project Archive</b></summary>
