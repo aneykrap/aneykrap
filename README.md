@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/aneykrap.png" width="110" alt="Park Yena" />
-
 # 박예나 · Park Yena
 
 [![Email](https://img.shields.io/badge/Email-yena7park%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yena7park@gmail.com)
