@@ -8,9 +8,9 @@
 | Project | Role | Period | Tech |
 |:--|:--:|:--:|:--|
 | **[Deary](https://github.com/Deary-App/Deary-Server)**<br/>외국어 일기를 쓰고 서로 문장을 교정해 주는 앱 | Backend | 2026.10 – | `Spring Boot` `PostgreSQL` `OpenAI` |
-| 🏆 **[Timo](https://github.com/Team-Timo/Timo-Server)**<br/>AI가 걸릴 시간을 추천하는 타임박싱 투두 | Backend | 2026.06 – | `Spring Boot` `MySQL` `Redis` `Gemini` |
-| 🏆 **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)**<br/>물류취약지역 공동배송 플랫폼 | Data Analysis | 2025.03 – 2025.08 | `Python` `pandas` `statsmodels` `SciPy` |
-| 🏆 **[COMMA](https://github.com/WarmElephantMario/COMMA)**<br/>시·청각장애 학습자를 위한 AI 학습 보조 앱 | Full-stack | 2024.03 – 2024.12 | `Flutter` `Node.js` `MySQL` `OpenAI` |
+|  **[Timo](https://github.com/Team-Timo/Timo-Server)**<br/>AI가 걸릴 시간을 추천하는 타임박싱 투두 | Backend | 2026.06 – | `Spring Boot` `MySQL` `Redis` `Gemini` |
+|  **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)**<br/>물류취약지역 공동배송 플랫폼 | Data Analysis | 2025.03 – 2025.08 | `Python` `pandas` `statsmodels` `SciPy` |
+|  **[COMMA](https://github.com/WarmElephantMario/COMMA)**<br/>시·청각장애 학습자를 위한 AI 학습 보조 앱 | Full-stack | 2024.03 – 2024.12 | `Flutter` `Node.js` `MySQL` `OpenAI` |
 
 ### Awards
 
@@ -19,23 +19,6 @@
 - 🏆 **[WhisSYNC](https://github.com/BFF-Barrier-Free-Forever/Automated-Captioning)** — 대본 매칭으로 공연 자막을 띄우는 시스템 · 이화 캡스톤디자인 은상
 - 🏆 **[COMMA](https://github.com/WarmElephantMario/COMMA)** — 이화 캡스톤디자인 금상 · SW Festival 창업경진대회 대상
 
-### Tech Stack
-
-#### Backend
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### AI
-
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-
-#### Data & Infra
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
