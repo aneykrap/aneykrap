@@ -16,9 +16,7 @@ Spring Boot 서버에 AI를 붙이고 배포와 운영까지 직접 챙깁니다
 
 ## About
 
-- 🎓 이화여자대학교 컴퓨터공학 전공
-- 🌱 **Java · Spring Boot**로 서버를 만들고 실제 사용자가 있는 서비스를 운영하고 있습니다.
-- 🤖 **Gemini · OpenAI · Claude API**를 서비스에 붙이는 일을 주로 합니다.
+- 이화여자대학교 컴퓨터공학 전공
 
 ## Experience
 
