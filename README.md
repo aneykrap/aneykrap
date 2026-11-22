@@ -10,12 +10,6 @@
 - **COMMA** <a href="https://github.com/WarmElephantMario/COMMA"><img src="https://cdn.simpleicons.org/github/8b949e" width="14" align="center" alt="GitHub" /></a> – AI-based learning support app for the visually & hearing impaired (Full-stack)
 - **MODOO BOX** <a href="https://github.com/aneykrap/Team_ModooBox"><img src="https://cdn.simpleicons.org/github/8b949e" width="14" align="center" alt="GitHub" /></a> – Group delivery platform for logistics-disadvantaged areas (Data Analysis)
 
-### 🏆 Awards
-- **SOPT 38th AppJam** – Special Award (Timo)
-- **2025 Land, Infrastructure and Transport Data Contest** – Excellence Award (MODOO BOX)
-- **2024 Ewha Engineering Capstone Design Contest** – Gold Prize (COMMA) · Silver Prize (WhisSYNC)
-- **2024 SW-Centered University SW Festival Startup Competition** – Grand Prize (COMMA)
-
 ---
 
 ### 💬 About Me
@@ -27,9 +21,3 @@
 - **Deary** <a href="https://github.com/Deary-App/Deary-Server"><img src="https://cdn.simpleicons.org/github/8b949e" width="14" align="center" alt="GitHub" /></a> – 외국어 일기 · 문장 교정 앱 서버 (백엔드)
 - **COMMA** <a href="https://github.com/WarmElephantMario/COMMA"><img src="https://cdn.simpleicons.org/github/8b949e" width="14" align="center" alt="GitHub" /></a> – 시 · 청각장애 학습자를 위한 AI 학습 보조 앱 (풀스택)
 - **모두의 택배** <a href="https://github.com/aneykrap/Team_ModooBox"><img src="https://cdn.simpleicons.org/github/8b949e" width="14" align="center" alt="GitHub" /></a> – 물류취약지역 공동배송 매칭 플랫폼 (데이터 분석)
-
-### 🏆 Awards
-- **SOPT 38기 AppJam** – 특별상 (Timo)
-- **2025 국토교통 데이터 활용 경진대회** – 우수상 (모두의 택배)
-- **2024 Ewha Engineering Capstone Design Contest** – 금상 (COMMA) · 은상 (WhisSYNC)
-- **2024 SW중심대학 연합 SW Festival 창업경진대회** – 대상 (COMMA)
