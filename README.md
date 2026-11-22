@@ -14,13 +14,6 @@
 
 - 이화여자대학교 컴퓨터공학 전공
 
-## Experience
-
-| Activity | Role | Period |
-|:--|:--|:--:|
-| **SOPT 38th** | Server | 2026 |
-| **이화글로벌프론티어** | 기술 총괄 | 2024 – 2025 |
-
 ## Featured Projects
 
 | Project | What I did | Tech |
