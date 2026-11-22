@@ -41,7 +41,7 @@ Spring Boot로 서버를 만들고 Gemini · OpenAI · Claude 같은 AI API를 �
 
 ### 🏆 Awards
 
-| | 수상 | 프로젝트 |
+| 연도 | 수상 | 프로젝트 |
 |:--:|:--|:--|
 | 2026 | SOPT 38기 AppJam 특별상 | Timo |
 | 2025 | 국토교통 데이터 활용 경진대회 우수상 (한국교통연구원 원장상) | 모두의 택배 |
@@ -53,7 +53,7 @@ Spring Boot로 서버를 만들고 Gemini · OpenAI · Claude 같은 AI API를 �
 
 ### 🧰 Tech Stack
 
-| | |
+| 분야 | 기술 |
 |:--|:--|
 | **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white) |
