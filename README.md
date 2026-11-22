@@ -5,13 +5,12 @@
 
 ### Projects
 
-| Project | What I did | Tech |
-|:--|:--|:--|
-| **[Deary](https://github.com/Deary-App/Deary-Server)**<br/>외국어 일기를 쓰고 서로 문장을 교정해 주는 앱<br/><sub>2026.10 – 현재</sub> | **Backend**<br/>인증, 교정 API, AI 자동 검수 | `Spring Boot` `PostgreSQL` `OpenAI` |
-| 🏆 **[Timo](https://github.com/Team-Timo/Timo-Server)**<br/>AI가 걸릴 시간을 추천하는 타임박싱 투두<br/><sub>2026.06 – 현재</sub> | **Backend**<br/>AI 추천 · 피드백 API, Blue/Green 무중단 배포, 모니터링 | `Spring Boot` `MySQL` `Redis` `Gemini` |
-| 🏆 **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)**<br/>물류취약지역 주민의 택배를 모아 함께 배송하는 플랫폼<br/><sub>2025.03 – 2025.08</sub> | **Data Analysis**<br/>우편 물류 공공데이터 분석, 단계별 배송 기준 설정 | `Python` `pandas` `statsmodels` `SciPy` |
-| 🏆 **[COMMA](https://github.com/WarmElephantMario/COMMA)**<br/>시·청각장애 학습자를 위한 AI 학습 보조 앱<br/><sub>2024.03 – 2024.12</sub> | **Full-stack**<br/>Flutter 화면, Node.js API | `Flutter` `Node.js` `MySQL` `OpenAI` |
-
+| Project | Role | Period | Tech |
+|:--|:--:|:--:|:--|
+| **[Deary](https://github.com/Deary-App/Deary-Server)**<br/>외국어 일기를 쓰고 서로 문장을 교정해 주는 앱 | Backend | 2026.10 – | `Spring Boot` `PostgreSQL` `OpenAI` |
+| 🏆 **[Timo](https://github.com/Team-Timo/Timo-Server)**<br/>AI가 걸릴 시간을 추천하는 타임박싱 투두 | Backend | 2026.06 – | `Spring Boot` `MySQL` `Redis` `Gemini` |
+| 🏆 **[모두의 택배](https://github.com/aneykrap/Team_ModooBox)**<br/>물류취약지역 공동배송 플랫폼 | Data Analysis | 2025.03 – 2025.08 | `Python` `pandas` `statsmodels` `SciPy` |
+| 🏆 **[COMMA](https://github.com/WarmElephantMario/COMMA)**<br/>시·청각장애 학습자를 위한 AI 학습 보조 앱 | Full-stack | 2024.03 – 2024.12 | `Flutter` `Node.js` `MySQL` `OpenAI` |
 ### Awards
 
 - 🏆 **[Timo](https://github.com/Team-Timo/Timo-Server)** — SOPT 38기 AppJam 특별상
