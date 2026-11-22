@@ -1,6 +1,7 @@
 ### About
 
 - 이화여자대학교 컴퓨터공학 전공
+- ✉️ [yena7park@gmail.com](mailto:yena7park@gmail.com)
 
 ### Projects
 
@@ -42,7 +43,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Contact
-
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="15" />&nbsp; <a href="mailto:yena7park@gmail.com">yena7park@gmail.com</a>
