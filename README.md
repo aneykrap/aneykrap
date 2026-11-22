@@ -14,7 +14,7 @@
 
 - 이화여자대학교 컴퓨터공학 전공
 
-## Featured Projects
+## Projects
 
 | Project | What I did | Tech |
 |:--|:--|:--|
